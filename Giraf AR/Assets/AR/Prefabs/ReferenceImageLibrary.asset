@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5106255554170657934
+  m_GuidHigh: 14924862344771504021
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5405796333592690524
+      m_GuidHigh: 4491210628161129869
+    m_SerializedTextureGuid:
+      m_GuidLow: 16034049417912878960
+      m_GuidHigh: 5405380432183996297
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Giraf
+    m_Texture: {fileID: 2800000, guid: 59c1877062fede8489af2c38ddc4034b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5679159580028559522
+      m_GuidHigh: 1405917180843028376
+    m_SerializedTextureGuid:
+      m_GuidLow: 645403865297452853
+      m_GuidHigh: 7307948875557576504
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Giraf
+    m_Texture: {fileID: 2800000, guid: 5fb7ff35ef6508f4381f537cc80c6b65, type: 3}
